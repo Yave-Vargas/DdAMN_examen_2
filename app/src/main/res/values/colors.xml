@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="botonS">#E15554</color>
+    <color name="botonC">#068871</color>
+    <color name="botonP">#0B7189</color>
+    <color name="itemUser">#004E98</color>
+    <color name="itemPost">#FF724F</color>
+    <color name="itemComments">#009868</color>
+</resources>
